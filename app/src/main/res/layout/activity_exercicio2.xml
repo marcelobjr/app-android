@@ -10,6 +10,8 @@
 
         <include layout="@layout/frame_layout"/>
         <include layout="@layout/grid_layout" />
+        <include layout="@layout/linear_layout" />
+        <include layout="@layout/table_layout" />
 
     </LinearLayout>
 
