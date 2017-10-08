@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">AulaAndroid</string>
+    <string name="app_name">Aula Android 2017</string>
+    <string name="homeButtonEx3">Exercicio 3</string>
+    <string name="homeButtonEx4">Exercicio 4</string>
+    <string name="homeButtonExSQL">Exercicio SQL</string>
+    <string name="olaMundo">Olá Mundo!</string>
+    <string name="exercicio3botao1">Exibir um Toast</string>
+    <string name="exercicio3botao2">nova Activiy</string>
+    <string name="exercicio3edittext">digite um texto</string>
+    <string name="exercicio3textview">Exercicio 3</string>
+    <string name="ex3_nome">Marcelo Barros</string>
+    <string name="exe3_telefone">81 988060921</string>
+    <string name="exe3_end">Rua Raposo Pinto 549</string>
+    <string name="ex3_site">www.github.com/marcelobjr</string>
+    <string name="ex3_nota">10</string>
+    <string name="ex4_adicionar">Adicionar Novo Aluno</string>
+    <string name="ex4_name">Nome</string>
+    <string name="ex4_email">Digite seu email</string>
+    <string name="ex4_phone">Digite seu telefone</string>
+    <string name="ex4_botaoSave">Salvar</string>
 </resources>
